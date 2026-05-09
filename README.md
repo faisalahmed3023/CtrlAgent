@@ -9,3 +9,7 @@ Each dataset contains three files:
 - `ratings.csv`: user-item interactions with `user_id`, `item_id`, and `rating`
 
 This unified structure makes the datasets suitable for recommender-system experiments, user-behaviour simulation, and cross-domain evaluation.
+
+## Operating CtrlAgent
+
+`CtrlAgent` is the main user-behaviour simulation framework used in this project. It stores and manages each user's profile, memory, and action history.
