@@ -12,4 +12,4 @@ This unified structure makes the datasets suitable for recommender-system experi
 
 ## Operating CtrlAgent
 
-`CtrlAgent` is the main user-behaviour simulation framework used in this project. It stores and manages each user's profile, memory, and action history.
+`CtrlAgent` is the main user-behaviour simulation framework used in this project. It stores and manages each user's profile, memory, and action history. You can execute the `CtrlAgent` agent by running the LLM_Policy.py, MemoryModule.py, MemoryControl.py, and Trainer.py togather within one a single operating stage.
